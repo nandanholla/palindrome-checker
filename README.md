@@ -11,3 +11,5 @@ This application asks a user for a phrase or a word. It checks the user input, r
 * Dammit, I’m Mad!
 * Was It A Rat I Saw?
 * A Santa Lived As a Devil At NASA
+
+Check out palindrome checker from [Free Code Camp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
