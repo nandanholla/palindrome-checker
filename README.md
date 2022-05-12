@@ -7,7 +7,7 @@ This application asks a user for a phrase or a word. It checks the user input, r
 
 ## Demo
 
-https://codepen.io/nandanholla/full/XWVRgxO
+https://nandanholla.github.io/palindrome-checker
 
 
 ## Screenshots 📸
